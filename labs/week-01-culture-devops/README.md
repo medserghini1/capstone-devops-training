@@ -18,3 +18,9 @@ Expected: {"status":"ok"}
 ```powershell
 pytest
 ```
+
+## Links
+- Repo: https://github.com/medserghini1/capstone-devops-training
+- Notion: <Capstone DevOps - Project Home link>
+- Exercise 5 review: <Exercise 5 - AI Backlog Review link>
+- Lead time card 1: <X h>
